@@ -61,13 +61,13 @@
 
 
 # 📊 GitHub Stats:
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=BrenoRCBrito&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BrenoRCBrito&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoRCBrito&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
+<table >
+  <tr style="padding: 0; margin: 0;">
+    <td><img height="300" src="https://github-readme-stats.vercel.app/api?username=BrenoRCBrito&theme=onedark&hide_border=false&include_all_commits=true&count_private=true"/></td>
+    <td ><img  height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoRCBrito&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></td>
+    <td ><img  height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=BrenoRCBrito&theme=onedark&hide_border=false"/></td>
+  </tr>
+</table>
 
 
 ### ✍️ Random Dev Quote:
