@@ -68,12 +68,3 @@
     <td ><img  height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=BrenoRCBrito&theme=onedark&hide_border=false"/></td>
   </tr>
 </table>
-
-
-### ✍️ Random Dev Quote:
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
