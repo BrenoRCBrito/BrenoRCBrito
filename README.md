@@ -3,7 +3,7 @@
 
 <font size="5">🔭 I’m currently working on my portfolio.</font>
 <br>
-<font size="5">🌱I’m currently programming Design Patterns.</font>
+<font size="5">🌱I’m currently learning programming Design Patterns.</font>
 <br>
 <font size="5">⚡ Fun fact: I like challenges and hard things.</font>
 <br>
