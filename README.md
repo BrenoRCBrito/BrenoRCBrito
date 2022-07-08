@@ -62,7 +62,9 @@
 
 # 📊 GitHub Stats:
 <div>
-<img  height="190" valign="top" src="https://github-readme-streak-stats.herokuapp.com/?user=BrenoRCBrito&theme=onedark&hide_border=false"/>
-<img height="190" valign="top" src="https://github-readme-stats.vercel.app/api?username=BrenoRCBrito&theme=onedark&hide_border=false&include_all_commits=true&count_private=true"/>
-<img align="center" valign="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoRCBrito&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<img  height="193" valign="top" src="https://github-readme-streak-stats.herokuapp.com/?user=BrenoRCBrito&theme=onedark&hide_border=false"/>
+<img height="193" valign="top" src="https://github-readme-stats.vercel.app/api?username=BrenoRCBrito&theme=onedark&hide_border=false&include_all_commits=true&count_private=true"/>
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoRCBrito&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
