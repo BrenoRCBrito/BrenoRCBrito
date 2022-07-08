@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2><a href="https://github.com/BrenoRCBrito/BrenoRCBrito.en-us.md">ENGLISH VERSION</a></h2>
+<h3><a href="https://github.com/BrenoRCBrito/BrenoRCBrito.en-us.md">ENGLISH VERSION</a></h2>
 <div align="center">
 <h2>
 
