@@ -6,7 +6,7 @@
 <br>
 <font size="5">🌱I’m currently learning programming Design Patterns.</font>
 <br>
-<font size="5">⚡ Fun fact: I like challenges and hard things.</font>
+<font size="5">⚡ Fun fact: I like challenging things.</font>
 <br>
 <font size="5">🤝 I'm looking for a job opportunity.</font>
 </h2>
