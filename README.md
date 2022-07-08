@@ -1,5 +1,5 @@
 # 💫 About Me:
-<div align="center" font-size="10">
+<div align="center">
 
 <font size="5">🔭 I’m currently working on my portfolio.</font>
 <br>
