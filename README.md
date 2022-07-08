@@ -1,7 +1,13 @@
 # 💫 About Me:
-<div align="center">
+<div align="center" font-size="10">
 
-🔭 I’m currently working on my portfolio.<br>🌱 I’m currently learning Java, Python, and Spring.<br>⚡ Fun fact: I like challenges and hard things.<br>🤝 I'm looking for a job opportunity.
+<font size="5">🔭 I’m currently working on my portfolio.</font>
+<br>
+<font size="5">🌱I’m currently learning Java, Python, and Spring.</font>
+<br>
+<font size="5">⚡ Fun fact: I like challenges and hard things.</font>
+<br>
+<font size="5">🤝 I'm looking for a job opportunity.</font>
 
 </div>
 
