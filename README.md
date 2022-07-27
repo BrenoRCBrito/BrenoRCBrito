@@ -68,5 +68,5 @@
 </div>
 <hr/>
 <div align="center">
-<img src="https://my-github-stats-ey68158hg-brenorcbrito.vercel.app/api/top-langs/?username=BrenoRCBrito&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&hide=html"/>
+<img src="https://my-github-stats-ey68158hg-brenorcbrito.vercel.app/api/top-langs/?username=BrenoRCBrito&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&hide=html, css"/>
 </div>
