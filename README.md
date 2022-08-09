@@ -5,7 +5,7 @@
 
 <font size="5">🔭 Atualmente estou projetando meu portfolio.</font>
 <br>
-<font size="5">🌱 Estou aprendendo programming Design Patterns.</font>
+<font size="5">🌱 Estou aprendendo Estruturas de Dados.</font>
 <br>
 <font size="5">⚡ Fun fact: Eu gosto de desafios.</font>
 <br>
