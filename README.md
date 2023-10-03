@@ -1,15 +1,7 @@
-# 💫 Sobre mim:
-<h3><a href="https://github.com/BrenoRCBrito/BrenoRCBrito.en-us.md">ENGLISH VERSION</a></h2>
 <div align="center">
 <h2>
 
-<font size="5">🔭 Atualmente estou projetando meu portfolio.</font>
-<br>
-<font size="5">🌱 Estou aprendendo Estruturas de Dados.</font>
-<br>
-<font size="5">⚡ Fun fact: Eu gosto de desafios.</font>
-<br>
-<font size="5">🤝 Estou a procura de uma oportunidade de emprego.</font>
+<font size="5">Full stack software enginner.</font>
 </h2>
 
 </div>
