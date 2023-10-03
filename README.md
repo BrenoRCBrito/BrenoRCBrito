@@ -1,10 +1,6 @@
-<div align="center">
 <h2>
-
 <font size="5">Full stack software enginner.</font>
 </h2>
-
-</div>
 
 # 🌐 Redes:
 <div align="center">
