@@ -50,7 +50,7 @@
 
 
 # 📊 GitHub Stats:
-( Se não conseguir ver 3 cards abaixo, por favor recarregue a página. )
+( Se não conseguir ver 2 cards abaixo, por favor recarregue a página. )
 <div align="center">
 <img height="160" valign="top" src="https://my-github-stats-ey68158hg-brenorcbrito.vercel.app/api?username=BrenoRCBrito&theme=onedark&hide_border=false&include_all_commits=true&count_private=true"/>
 </div>
